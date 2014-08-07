@@ -1,0 +1,6 @@
+{% load_yaml as rawmap %}
+Debian:
+  pkgs:
+    - zsh
+  ohmyzsh: {}
+{% endload %}
