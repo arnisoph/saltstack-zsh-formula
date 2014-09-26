@@ -3,4 +3,8 @@ Debian:
   pkgs:
     - zsh
   ohmyzsh: {}
+RedHat:
+  pkgs:
+    - zsh
+  ohmyzsh: {}
 {% endload %}
