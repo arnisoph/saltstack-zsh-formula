@@ -1,9 +1,9 @@
-===========
-zsh-formula
-===========
+=====================
+saltstack-zsh-formula
+=====================
 
 .. image:: https://api.flattr.com/button/flattr-badge-large.png
-    :target: https://flattr.com/submit/auto?user_id=bechtoldt&url=https%3A%2F%2Fgithub.com%2Fbechtoldt%2Fzsh-formula
+    :target: https://flattr.com/submit/auto?user_id=bechtoldt&url=https%3A%2F%2Fgithub.com%2Fbechtoldt%2Fsaltstack-zsh-formula
 
 Salt Stack Formula to set up and configure zsh, a shell designed for interactive use
 
